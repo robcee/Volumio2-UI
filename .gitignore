@@ -13,3 +13,5 @@ src/app/themes/volumio/assets/variants/
 load-variant.scss
 .DS_Store
 src/app/volumio.constant.js
+package-lock.json
+
